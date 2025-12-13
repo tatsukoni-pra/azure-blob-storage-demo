@@ -1,13 +1,13 @@
 #!/bin/bash
 
 # Azure Blob Storage Upload Script
-# Storage Account: sttatsukonidemo
+# Storage Account: sttatsukonidemo2
 # Container: files
 
 set -e
 
 # 設定
-STORAGE_ACCOUNT="sttatsukonidemo"
+STORAGE_ACCOUNT="sttatsukonidemo2"
 CONTAINER_NAME="files"
 RESOURCE_GROUP="tatsukoni-test-v2"
 

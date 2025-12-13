@@ -2,7 +2,7 @@
 
 # バックアップ有効化後の設定確認スクリプト
 
-STORAGE_ACCOUNT="sttatsukonidemo"
+STORAGE_ACCOUNT="sttatsukonidemo2"
 RESOURCE_GROUP="tatsukoni-test-v2"
 VAULT_NAME="backupcontainerdemo"
 
